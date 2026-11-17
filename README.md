@@ -4,8 +4,6 @@
 
 ¹ Department of Computer Science and Information Engineering, National Taichung University of Science and Technology, Taiwan
 
-**Email:** guanzhongsu92@gmail.com, tschen.prof@gmail.com, wienhong@nutc.edu.tw
-
 \* Corresponding Author: wienhong@nutc.edu.tw
 
 ## Abstract
